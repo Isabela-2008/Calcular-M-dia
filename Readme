@@ -11,3 +11,18 @@ Definir uma função calcular_media que receba três notas como argumentos e ret
 Solicitar ao usuário que insira três notas.
 Utilizar a função calcular_media para calcular a média das notas inseridas.
 Exibir a média calculada com duas casas decimais.
+
+# Calculadora de Média de Notas com Função
+
+## Descrição
+Este projeto implementa uma função em Python para calcular a média de três notas. O programa solicita ao usuário que insira três notas, utiliza a função para calcular a média dessas notas, e exibe o resultado com duas casas decimais.
+
+## Funcionalidades
+- Leitura de três notas fornecidas pelo usuário.
+- Definição de uma função que calcula a média das três notas.
+- Cálculo e exibição da média com duas casas decimais.
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/calculadora-media-funcao.git
