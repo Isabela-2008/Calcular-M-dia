@@ -1,0 +1,13 @@
+
+Enunciado do Projeto
+Título: Calculadora de Média de Notas com Função
+
+Descrição:
+Desenvolva um programa em Python que define uma função para calcular a média de três notas. O programa deve solicitar ao usuário que insira três notas, calcular a média utilizando a função criada e exibir o resultado com duas casas decimais.
+
+Requisitos:
+
+Definir uma função calcular_media que receba três notas como argumentos e retorne a média dessas notas.
+Solicitar ao usuário que insira três notas.
+Utilizar a função calcular_media para calcular a média das notas inseridas.
+Exibir a média calculada com duas casas decimais.
